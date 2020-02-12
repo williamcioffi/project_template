@@ -1,0 +1,13 @@
+# r stuff
+.Rapp.history
+.Rhistory
+.Rproj.user
+.RData
+
+# macos stuff 
+.DS_Store
+
+# tmp stuff
+~$*
+*.tmp
+*.swp
